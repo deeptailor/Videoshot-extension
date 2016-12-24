@@ -1,6 +1,6 @@
 #Videoshot
 
-[Videoshot Demo][prodlink]
+[Videoshot Example][prodlink]
 
 ##Description
 
