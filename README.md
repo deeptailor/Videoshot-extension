@@ -1,6 +1,4 @@
-![Videoshot logo][logo]
-
-#Videoshot
+#Videoshot ![Videoshot logo][logo]
 
 [Videoshot Example][prodlink]
 
