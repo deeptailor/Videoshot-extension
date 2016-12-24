@@ -1,3 +1,5 @@
+![Videoshot logo][logo]
+
 #Videoshot
 
 [Videoshot Example][prodlink]
@@ -17,3 +19,4 @@ My prototype version featured a popup window that allowed users to click on a re
 My second implementation (current) was to have a single icon that a user would click on which would toggle to a record button and then to a stop and save button respectively. I was able to accomplish this by having a background script run when the user loaded their chrome page.
 
 [prodlink]: https://gfycat.com/PlasticLegalChuckwalla
+[logo]: ./record-black.png "logo"
