@@ -4,6 +4,8 @@
 
 [Videoshot Example][prodlink]
 
+<iframe src='https://gfycat.com/ifr/PlasticLegalChuckwalla' frameborder='0' scrolling='no' width='640' height='360' allowfullscreen></iframe>
+
 ##Description
 
 Videoshot is a chrome extension developed to enable users to capture moving screenshots of their chrome browser window in full 1080p
